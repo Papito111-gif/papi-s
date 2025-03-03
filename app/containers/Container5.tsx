@@ -13,7 +13,7 @@ const TestimonialCard = () => {
         />
       </div>
       <div className="flex-1 flex flex-col justify-center p-6 text-2xl">
-        <div className="flex space-x-1 text-red-500 text-xl mb-2">
+        <div className="flex space-x-1 text-xl mb-2 md:text-red-500 text-yellow-500">
           <span>★</span>
           <span>★</span>
           <span>★</span> 
